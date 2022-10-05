@@ -1,4 +1,4 @@
-#Futhark
+#Futhark Converter
 
 import string
 
